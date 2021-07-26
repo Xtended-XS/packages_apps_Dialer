@@ -24,4 +24,8 @@
     <item name="android:windowLightStatusBar">false</item>
   </style>
 
+  <style name="MainActionModeStyle" parent="@style/Widget.AppCompat.ActionMode">
+    <item name="background">@color/dndndn</item>
+  </style>
+
 </resources>
